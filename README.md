@@ -1,4 +1,4 @@
- ![MasterHead](https://media.licdn.com/dms/image/v2/D4E03AQGq5JqEjHN75Q/profile-displayphoto-scale_200_200/B4EZqqbqlUKgAY-/0/1763795979395?e=1766016000&v=beta&t=LkepsWLD6jzfQ1BiEtISkLEqMCWUxhEXXipMMtA0VOM)
+ ![MasterHead](1746188115606.jpg)
 <h1 align="center">Merhaba,ben Mehmet Şevket Akbulut</h1>
 <h3 align="center">Karadeniz Teknik Üniversitesi - Yazılım Mühendisliği Bölümü</h3>
 
